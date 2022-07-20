@@ -1,0 +1,15 @@
+{
+    "name": "nacos/grpc",
+    "autoload": {
+        "psr-4": {
+            "Nacos\\Grpc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lijitantao",
+            "email": "1151904797@qq.com"
+        }
+    ],
+    "require": {}
+}
