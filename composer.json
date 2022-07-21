@@ -11,5 +11,8 @@
             "email": "1151904797@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "branch-alias": {
+        "dev-master": "0.0.1-dev"
+    }
 }
