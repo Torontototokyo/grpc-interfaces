@@ -5,6 +5,7 @@
             "Nacos\\Grpc\\": "src/"
         }
     },
+    "license": "MIT",
     "authors": [
         {
             "name": "lijitantao",
